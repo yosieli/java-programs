@@ -7,6 +7,8 @@ public class GFG {
     { 
         // creating an ArrayList 
         ArrayList<Integer> al = new ArrayList<Integer>(); 
+        Integer myAge = 25;
+        int myAge1 = 26;
   
         // adding object to arraylist 
         al.add(1); 
